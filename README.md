@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Wei Aun from Malaysia. Currently a data analyst in Malaysia :)
+- 👋 Hello, my name is Wei Aun from Malaysia. Currently working as a data analyst in financial industry :)
 - 👀 I’m interested in finding stories and insights behind data! 
 - 🌱 I know Python and SQL, and currently learning about quant finance
 
