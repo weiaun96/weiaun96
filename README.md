@@ -1,6 +1,6 @@
-- 👋 Hello, my name is Wei Aun from Malaysia. Currently a masters student in Data Science and Business Analytics at Asia Pacific University :)
+- 👋 Hello, my name is Wei Aun from Malaysia. Currently a data analyst in Malaysia :)
 - 👀 I’m interested in finding stories and insights behind data! 
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I know Python and SQL, and currently learning about quant finance
 
 
 <!---
